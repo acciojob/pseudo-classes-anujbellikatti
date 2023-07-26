@@ -20,6 +20,6 @@ li:first-child{
 li:nth-child(3){
 	background-color:pink;
 }
-li:nth-child(5){
-	background-color:white;
+li:last-child{
+	background-color:#FFFFFf;
 }
